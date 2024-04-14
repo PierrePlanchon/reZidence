@@ -1,0 +1,17 @@
+------------ Rezidence ------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Phasellus tristique libero id leo consectetur, 
+eu congue nulla ullamcorper. 
+Vestibulum vulputate imperdiet est vel mollis. 
+Donec a leo in augue suscipit tincidunt. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, 
+per inceptos himenaeos. Morbi pulvinar, justo sed pretium sollicitudin, 
+risus tortor consectetur tortor, vitae fringilla orci libero at erat. 
+Duis pellentesque risus sapien, et sagittis risus cursus in. 
+Suspendisse nulla eros, rhoncus quis arcu nec, ultrices scelerisque sapien. 
+Duis nec libero sed sem porta sodales. Fusce quis nibh lobortis, 
+congue ante ut, sodales nibh. Vivamus volutpat tellus eros, 
+et pharetra lorem ultrices sit amet.
+
+----------- Réalisateur -----------
+Groupe 20 -

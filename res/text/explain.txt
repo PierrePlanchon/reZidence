@@ -1,0 +1,5 @@
+Voici les règles de jeux : 
+    Vous êtes un étudiant dans son logement Crous, habitué à la modération discord et aux sessions LoL de plus de 3 semaines, vous ne savez pas la situation désastreuse du monde.
+    En effet, une épidémie zombifiant les humains sévit depuis plus d'un mois, vous devez vous echapper. Heureusement vous trouvez une arme et une poignée de munitions(le pouvoir du scénario est très puissant).
+    Déplacez vous d'étages en étages, de salles en salles et essayez de sortir du batiment, vous trouverez des clés pour ouvrir des coffres et de quoi survivre sur votre chemin.
+    Mais prenez garde, les rats, les cafards et les zombies rodent, et votre hygiène déplorable ne fait que les attirer.
